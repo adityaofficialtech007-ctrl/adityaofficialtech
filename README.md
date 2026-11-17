@@ -1,5 +1,98 @@
 # adityaofficialtech
 My coding journey | Python, Web Development, AI &amp; Software Development Projects 🚀
+<div align="center">👋 Hi, I'm Aditya Yadav
+
+🚀 Software Developer | AI & Data Science Enthusiast
+
+A passionate Data Scientist from India 🇮🇳
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Exploring+Artificial+Intelligence;Learning+Software+Development;Building+Creative+Tech+Projects" alt="Typing SVG" />""Profile Views" (https://komarev.com/ghpvc/?username=adityaofficialtech007-ctrl&label=Profile%20Views&color=0e75b6&style=flat)" (https://github.com/adityaofficialtech007-ctrl)
+""GitHub followers" (https://img.shields.io/github/followers/adityaofficialtech007-ctrl?label=Followers&style=social)" (https://github.com/adityaofficialtech007-ctrl)
+
+</div>---
+
+<div align="center">🙋‍♂️ About Me
+
+🔭 Currently working on Artificial Intelligence (AI)
+
+🌱 Learning and exploring Software Development & Data Science
+
+🤝 Looking to collaborate on AI Agent Projects
+
+💡 Interested in AI, Python, Technology and Innovation
+
+💬 Ask me about Programming and Software Development
+
+🎥 Fun fact: I am a Content Creator
+
+📍 Based in India 🇮🇳
+
+</div>---
+
+<div align="center">🛠️ Languages and Tools
+
+💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,java,c,php" alt="Programming Languages" />"Scala" (https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+📊 Data Science & Visualization
+
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+"Chart.js" (https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+"D3.js" (https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+
+🌐 Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,reactnative,android" alt="Frontend and Mobile" />⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,spring,graphql" alt="Backend and APIs" />🗄️ Databases, Cloud & Operating Systems
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,linux" alt="Databases and Cloud" />🎨 Design, 3D & Automation
+
+<img src="https://skillicons.dev/icons?i=illustrator,photoshop,xd,sketch,blender,unreal,selenium" alt="Design and Automation" />"Zapier" (https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+</div>---
+
+<div align="center">📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityaofficialtech007-ctrl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaofficialtech007-ctrl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /><br/><img width="70%" src="https://streak-stats.demolab.com?user=adityaofficialtech007-ctrl&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></div>---
+
+<div align="center">📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaofficialtech007-ctrl&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" /></div>---
+
+<div align="center">🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityaofficialtech007-ctrl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" /></div>---
+
+<div align="center">📂 My Projects
+
+🚀 Explore my GitHub repositories and projects.
+
+""Explore Repositories" (https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/adityaofficialtech007-ctrl?tab=repositories)
+
+</div>---
+
+<div align="center">🌐 Connect With Me
+
+""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/adityaofficialtech007-ctrl)
+
+""Instagram" (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" (https://instagram.com/aditya_brand50)
+
+""Facebook" (https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)" (https://facebook.com/adityayadav)
+
+""Email" (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:adityaofficialtech007@gmail.com)
+
+</div>---
+
+<div align="center">💡 "Keep Learning, Keep Building, Keep Growing!"
+
+Thanks for visiting my profile! 😊
+
+⭐ From "Aditya Yadav" (https://github.com/adityaofficialtech007-ctrl)
+
+</div>
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
